@@ -1,0 +1,45 @@
+{
+  "plugins": [
+    "prism",
+    "anchor-navigation-ex",
+    "codeblock-filename",
+    "search-plus",
+    "-sharing",
+    "-highlight",
+    "-lunr",
+    "-search",
+    "-new-flowchart",
+    "advanced-emoji",
+    "jsfiddle",
+    "youtube",
+    "emphasize",
+    "splitter",
+    "tbfed-pagefooter",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 1
+    },
+    "jsfiddle": {
+      "type": "script",
+      "tabs": [
+        "result",
+        "js",
+        "css",
+        "html",
+        "resources"
+      ],
+      "height": "500",
+      "width": "500",
+      "fontColor": "00FF00"
+    },
+    "tbfed-pagefooter": {
+      "type": "script",
+      "modify_label": "最後更新：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}

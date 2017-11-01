@@ -1,5 +1,3 @@
----
-
 ```
 shell> apt-get install default-jre
 shell> java -version

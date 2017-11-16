@@ -10,6 +10,10 @@
 * [hadoop](hadoop.md)
 * [haproxy](haproxy.md)
 * [homebridge](homebridge.md)
+* [mysql](README.md)
+    * [手冊](guide.md)
+    * [mycli](mycli.md)
+    * [mysqltuner](mysqltuner.md)
 * [ipvsadm](ipvsadm.md)
 * [iscsitarget](iscsitarget.md)
 * [minidlna](minidlna.md)
@@ -19,6 +23,7 @@
 * [openstack](openstack.md)
 * [postfix](postfix.md)
 * [raspberrypi](raspberrypi.md)
+* [sqlserver](sqlserver.md)
 * [ubuntulinux](ubuntulinux.md)
 * [windows](windows.md)
 

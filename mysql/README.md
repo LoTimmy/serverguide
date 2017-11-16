@@ -77,3 +77,7 @@
 > `MySQL`使用`memcached`分散式快取系統相容的`API`作為`NoSQL`，透過該程式介面可以直接驅動`InnoDB`儲存引擎，大幅提昇讀取速度。另外，`memcached`的資料都是儲存在記憶體之中，因此執行效率遠高於一般放置於硬碟的`SQL`資料庫。
 
 > 負責維護`MySQL`開源版本的資料庫服務商`Percona`，該公司旗下`QA`工程師`David Bennett`透露，在`Percona Live 2016`會議上，`MySQL`社群決定以後不會推出`MySQL 5.8`，而是直接改版為`MySQL 8.0`。`David Bennett`表示，8.0版將會針對記憶體、`SSD`和硬碟的特性，來優化查詢。另外也不再需要依賴`MyISAM`，不用使用`FRM`檔案。8.0的新虛擬索引機制可以支援`JSON`的文件陣列。
+
+> `MariaDB`是開源資料庫`MySQL`分叉出來的版本。2008年`昇陽`買下`MySQL`的原創公司，2009年`甲骨文`又買下`昇陽`，開放陣營人士擔心`MySQL`的開放性不再，因而分叉出`MariaDB`。雖然`甲骨文`仍持續維護`MySQL`，但已逐漸轉向封閉開發。`MariaDB`基金會則於2012年成立，負責維護並確保`MariaDB`的開放性，`MariaDB`基金會不少成員也是來自`MySQL`原始團隊，如`MySQL`共同創辦人`Monty Widenius`現今為該基金會技術長。 
+
+

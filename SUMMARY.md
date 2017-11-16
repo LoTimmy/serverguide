@@ -9,6 +9,7 @@
 * [gearman](gearman.md)
 * [hadoop](hadoop.md)
 * [haproxy](haproxy.md)
+* [homebridge](homebridge.md)
 * [ipvsadm](ipvsadm.md)
 * [iscsitarget](iscsitarget.md)
 * [minidlna](minidlna.md)

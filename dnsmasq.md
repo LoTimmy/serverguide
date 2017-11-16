@@ -182,6 +182,3 @@ shell> ipset create facebook hash:ip timeout 300
 ipset=/.facebook.com/facebook
 ```
 
-<!--
-https://www.l68.net/2745.html
--->

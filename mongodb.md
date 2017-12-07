@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/docker-library/docs/master/mongo/logo.png)
 
 - `MongoDB`為一跨平台的文件導向開放源碼資料庫系統，是目前最受歡迎的`非關聯性資料庫` (`NoSQL`)。
+- `MongoDB`為一知名的開源資料庫，其中一個缺點是該資料庫的預設值允許任何人都能存取及下載。
 - `MongoDB`兼具關聯式資料多鍵值查詢的方便性，又有`NoSQL`資料庫處理大量資料的速度。
 - 可橫向擴展的`NoSQL`資料庫`MongoDB`。`MongoDB`橫向擴展的能力，不只能讓資料庫儲存大量資料，也能具備承載瞬間大量系統存取的能力。
 - `MongoDB`對於`JSON`(JavaScript Object Notation)格式有良好的支援度，使用者能在資料表中嵌入資料檔案以支援一對多表格關係(One-to-Many Relationships)，且`MongoDB`支援2級索引，即使資料檔案的格式沒有事先定義，也能讓資料庫直接搜尋這個檔案內部的資料。`MongoDB`在資料表中儲存`JSON`格式的檔案，搭配二級索引功能，就能取代多子表的資料庫設計方式。關聯式資料庫雖然也能將檔案存進資料表中，但是僅能使用`Blob`(Binary Large Object)格式，這種格式對於資料庫來說是黑盒子，無法對檔案內容進行搜尋，使用者需要從資料庫讀取出來，再用程式解析成需要的資訊。
